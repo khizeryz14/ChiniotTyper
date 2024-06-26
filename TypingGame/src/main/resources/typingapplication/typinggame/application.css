@@ -1,0 +1,51 @@
+#startLabel {
+    -fx-text-fill: #00be06;
+    -fx-alignment: center;
+    -fx-cursor: hand;
+}
+
+#wordToType {
+    -fx-alignment: center;
+    -fx-font-size: 24;
+}
+
+#inputText {
+    -fx-background-color: #d7d7d7;
+    -fx-text-fill: black;
+    -fx-font-size: 16;
+}
+
+.label {
+    -fx-font-family: Lucida Console;
+    -fx-text-fill: white;
+    -fx-font-size: 24;
+}
+
+.root {
+    -fx-background-color: black;
+}
+
+#retryButton {
+    -fx-font-family: Verdana;
+    -fx-background-color: #242424;
+    -fx-text-fill: #00a700;
+    -fx-font-size: 16;
+    -fx-cursor: hand;
+    -fx-border-color: darkgreen;
+    -fx-border-width: 2;
+}
+
+
+#seeResults {
+    -fx-font-family: Verdana;
+    -fx-background-color: #242424;
+    -fx-text-fill: #00a700;
+    -fx-font-size: 14;
+    -fx-cursor: hand;
+    -fx-border-color: darkgreen;
+    -fx-border-width: 2;
+}
+
+#timerLabel {
+    -fx-font-family: Impact;
+}
